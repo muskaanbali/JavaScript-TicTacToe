@@ -42,7 +42,7 @@ body{
     
 }
 
-#resetBtn{
+#resetBtn, #xBtn, #oBtn{
   padding: 1rem;
   font-size: 1.25rem;
   background-color: #191913;
